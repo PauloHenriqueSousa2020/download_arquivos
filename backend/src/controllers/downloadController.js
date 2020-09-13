@@ -1,5 +1,5 @@
 const fileSystem = require('fs');
-const raiz = 'C:/Projetos/Aplicações/download_arquivos/back-end/src/database/arquivos'; // passar diretorio onde se encontram os arquivos
+const raiz = 'C:/Projetos/Aplicações/download_arquivos/backend/src/database/arquivos'; // passar diretorio onde se encontram os arquivos
 
 module.exports = {
     listagem(request, response) {
